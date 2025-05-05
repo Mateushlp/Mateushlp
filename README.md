@@ -40,4 +40,19 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateushlp&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateushlp&layout=compact&theme=transparent)
+
+---
+
+### ⚡ GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mateushlp&theme=transparent)](https://git.io/streak-stats)
+
+
 > ✨ *"Cada projeto é o começo de uma grande história."*
