@@ -27,7 +27,8 @@
 
 ### 📌 Projetos em destaque
 
-- 🎮 [Jokenpô Game](https://mateushlp.github.io/jokenpo/) – Pedra, papel e tesoura em JavaScript  
+- 🎮 [Jokenpô Game](https://mateushlp.github.io/jokenpo/) – Pedra, papel e tesoura em JavaScript
+- 🚗 [DriveX](https://mateushlp.github.io/DriveX/) – Site moderno para venda de carros de luxo
 - 📦 [Ver todos os repositórios](https://github.com/Mateushlp?tab=repositories)
 
 ---
