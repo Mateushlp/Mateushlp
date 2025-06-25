@@ -35,9 +35,9 @@
 
 ### 📫 Contato
 
-- ✉️ **Email:** mateuslhp157@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/mateushlp](https://www.linkedin.com/in/mateushlp/)  
-- 📱 **WhatsApp:** (35) 99877-0233
+- ✉️ [Email:] mateuslhp157@gmail.com  
+- 🔗 [LinkedIn:] [linkedin.com/in/mateushlp](https://www.linkedin.com/in/mateushlp/)  
+- 📱 WhatsApp: (35) 99877-0233
 
 ---
 
